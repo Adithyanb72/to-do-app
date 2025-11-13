@@ -1,0 +1,53 @@
+*{
+    margin:0%
+}
+#add{
+    background-color: aqua;
+    height: 600px;
+    width: 400px;
+    border-radius: 5%;
+}
+#to{
+    text-align: center;
+    color: red;
+}
+#remove{
+     height: 500px;
+     width: 400px;
+    
+}
+#view{
+    height: 600px;
+    width: 400px;
+    background-color: chartreuse;
+    border-radius: 5%; 
+}
+#mark{
+     height: 600px;
+    width: 400px;
+    background-color: brown;
+    border-radius: 5%;
+}
+#first{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#data{
+    margin-left: 60px;
+}
+#sec{
+    padding-left: 120px;
+}
+#new{
+    background-color: cornflowerblue;
+    border-radius: 5%;
+}
+#viewall{
+    margin-left: 130px;
+    width: 90px;
+}
+#markall{
+   margin-left: 130px;
+   width: 90px; 
+}
